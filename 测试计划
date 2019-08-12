@@ -4,3 +4,7 @@
 3. 测试SSLL在数据natural分布时在negative类上的平均f1，考虑各种initial learning domains的组合
 4. 测试SSLL在数据balance分布时的accuracy，考虑各种initial learning domains的组合
 5.制作相应图表
+
+6.将类别分为positive,negative和neutral后再跑一次SSLL在数据natural分布时的平均f1，考虑各种initial learning domains的组合
+7.使用Amazon数据集跑一次SSLL在数据natural分布时的平均f1，考虑各种initial learning domains的组合
+8.将SSLL应用到电影评论上
