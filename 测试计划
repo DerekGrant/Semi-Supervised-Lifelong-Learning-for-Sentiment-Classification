@@ -1,0 +1,6 @@
+1. 测试NB-T在数据natural分布时，negative类上的f1
+2. 测试NB-S在数据natural分布时，negative类上的f1
+ 测试NB-ST在数据natural分布时，negative类上的f1
+3. 测试SSLL在数据natural分布时在negative类上的平均f1，考虑各种initial learning domains的组合
+4. 测试SSLL在数据balance分布时的accuracy，考虑各种initial learning domains的组合
+5.制作相应图表
